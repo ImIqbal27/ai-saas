@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Button variant="destructive" size="lg">
-        Click Me !
+        Click Me 2!
       </Button>
     </>
   );
